@@ -1,11 +1,16 @@
 body{
-  height : 60%;
+  height: 60%;
 }
 
 header{
-  height : 20%;
+  height: 20%;
 }
 
 footer{
-  height : 20%;
+  height: 20%;
+}
+
+h1{
+  font-family:'Berlin Sans';
+  font-weight: normal;
 }
