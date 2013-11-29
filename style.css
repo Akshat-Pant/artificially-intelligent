@@ -4,13 +4,19 @@ body{
 
 header{
   height: 20%;
+  background-color: ;
 }
 
 footer{
   height: 20%;
+  background-color: ;
 }
 
 h1{
   font-family:'Berlin Sans';
   font-weight: normal;
+}
+
+main-content{
+  background-color: ;
 }
